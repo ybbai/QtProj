@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmls/getBluetooth/ajax.js</file>
+        <file>qmls/getBluetooth/GetBluetoothJson.qml</file>
+        <file>qmls/main.qml</file>
+    </qresource>
+    <qresource prefix="/getBluetooth">
+        <file>qmls/getBluetooth/ajax.js</file>
+        <file>qmls/getBluetooth/GetBluetoothJson.qml</file>
+    </qresource>
+    <qresource prefix="/main">
+        <file>qmls/main.qml</file>
+    </qresource>
+</RCC>
